@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vdSQyKkTOfpYIOwF1xKDQafZSkJxHxomwlJqesNu0VWaW3i+nfTMbYkg27YLWnVinhm9eIEe/ssdAaprewbMwg==",
+  "dgSpecHash": "MpC+BO3g4C0EV5KXmMndW2mMICwvtHNgD4uFghrluxoIwawv8pUEgOcT6uBfqka/zHl+imjD0XMz7qd9vqfvZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "projectFilePath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\jose\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

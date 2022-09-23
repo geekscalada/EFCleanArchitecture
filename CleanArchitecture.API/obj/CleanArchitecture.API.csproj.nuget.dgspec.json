@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj": {}
+    "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.API\\CleanArchitecture.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj": {
+    "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.API\\CleanArchitecture.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+        "projectUniqueName": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
         "projectName": "CleanArchitecture.API",
-        "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+        "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.API\\obj\\",
+        "outputPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               },
-              "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj"
+              "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj"
               },
-              "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj": {
-                "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj"
+              "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj": {
+                "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj": {
+    "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+        "projectUniqueName": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
         "projectName": "CleanArchitecture.Infrastructure",
-        "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+        "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Data\\obj\\",
+        "outputPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -203,8 +203,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               }
             }
           }
@@ -253,14 +253,14 @@
         }
       }
     },
-    "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -311,14 +311,14 @@
         }
       }
     },
-    "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj": {
+    "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+        "projectUniqueName": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
         "projectName": "CleanArchitecture.Identity",
-        "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
+        "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Identity\\CleanArchitecture.Identity.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Identity\\obj\\",
+        "outputPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -339,8 +339,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               }
             }
           }

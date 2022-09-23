@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbjcHPN//VZlnwWZqeLdhKteclN2he2188qayn6ngKt5yVnO5BMfpV2TPaQ/sDI64agNZ8P8samorM6GGlL6DA==",
+  "dgSpecHash": "HaK0BCCJE2DRyaiYH+XWm6osJxmXDigCTMsi2SUiPOKA1bMDw61XrnzqxQuwvPuF6xCXKkrN2MPNc9bb9NYj5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose\\Mi unidad\\CleanArchitecture\\CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
+  "projectFilePath": "\\\\192.168.33.22\\windows\\00proyectos\\CleanArchEFVaxi\\new[codigoFinal]\\CleanArchitecture.Application.UnitTests\\CleanArchitecture.Application.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\jose\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
