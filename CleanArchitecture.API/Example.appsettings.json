@@ -1,11 +1,11 @@
 {
   "ConnectionStrings": {
-    "ConnectionString": "Data Source=www.joseescalada.com;Initial Catalog=Streamer;user id=sa;password=_vampir0bueno",
+    "ConnectionString": "Data Source=[URL or IP];Initial Catalog=[yout DB];user id=sa;password=[yourPass]",
     //Tendremos dos BDD, una de ellas es para identity, se llama security y hay que crearla en la BDD
-    "IdentityConnectionString": "Data Source=www.joseescalada.com;Initial Catalog=Security;user id=sa;password=_vampir0bueno"
+    "IdentityConnectionString": "Data Source=[URL or IP];Initial Catalog=[yout DB];user id=sa;password=[yourPass]"
   },
   "EmailSettings": {
-    "FromAddress": "vaxi.drez.social@gmail.com",
+    "FromAddress": "yourMail@.com",
     // Clave cuando te registras en sendGrid
     "ApiKey": "",
     "FromName":  "Vaxi"
@@ -19,8 +19,8 @@
   },
   "AllowedHosts": "*",
   "JwtSettings": {
-    "Key": "5e6cfe49-8a33-440e-8215-365b70bb183d",
-    "Issuer": "CleanArchitectureVaxiDrez",
+    "Key": "yourStringKey",
+    "Issuer": "yourIssuer",
     "Audience": "CleanArchitectureUsers",
     "DurationInMinutes":  360
   }

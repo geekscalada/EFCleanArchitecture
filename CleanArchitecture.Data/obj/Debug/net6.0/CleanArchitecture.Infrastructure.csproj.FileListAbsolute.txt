@@ -55,3 +55,22 @@ C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.
 C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
 C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
 C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll

@@ -34,3 +34,15 @@ C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net
 C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
 C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
 C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.deps.json
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.cs
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
+\\192.168.33.22\windows\00proyectos\CleanArchEFVaxi\new[codigoFinal]\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
