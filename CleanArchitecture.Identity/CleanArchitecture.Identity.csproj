@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+	 <!--jwt--> 
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.1" />
+	  <!--jwt-->	  
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+	  <!--para realizar consultas a la BDD-->	  
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.1" />
+	  <!--migrations en SQL-->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+	  <!--Migrations, roles, usuarios, etc.-->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+	  <!--para poder acceder al options configurations (appSetting.json)-->
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="6.0.0" />
+	  	  <!--Necesitamos soporte para manejo de JSON-->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />    
+	  <!--Manejo de Tokens-->	  
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchitecture.Application\CleanArchitecture.Application.csproj" />
+  </ItemGroup>
+
+</Project>

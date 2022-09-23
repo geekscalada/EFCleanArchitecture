@@ -1,0 +1,57 @@
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.deps.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.runtimeconfig.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\ref\CleanArchitecture.Identity.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.AssemblyReference.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.AssemblyInfoInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.AssemblyInfo.cs
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.CopyComplete
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\ref\CleanArchitecture.Identity.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.genruntimeconfig.cache
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.deps.json
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.runtimeconfig.json
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.AssemblyReference.cache
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.AssemblyInfoInputs.cache
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.AssemblyInfo.cs
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.CoreCompileInputs.cache
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.CopyComplete
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\refint\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.genruntimeconfig.cache
+C:\Users\jose\Mi unidad\CleanArchitecture[02dsdIdentity]\CleanArchitecture.Identity\obj\Debug\net6.0\ref\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.deps.json
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.runtimeconfig.json
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Identity.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.AssemblyReference.cache
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.AssemblyInfoInputs.cache
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.AssemblyInfo.cs
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.CoreCompileInputs.cache
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.csproj.CopyComplete
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\refint\CleanArchitecture.Identity.dll
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.pdb
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\CleanArchitecture.Identity.genruntimeconfig.cache
+C:\Users\jose\Mi unidad\CleanArchitecture\CleanArchitecture.Identity\obj\Debug\net6.0\ref\CleanArchitecture.Identity.dll
